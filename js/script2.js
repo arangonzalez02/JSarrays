@@ -19,3 +19,8 @@ for (let indice in array) {
 }
 
 //
+let arrayMascotas=["Perro", "Gato", "Tortuga"];
+//recorrer el array mascotas con el for of
+for (let mascotas of arrayMascotas) {
+    console.log(mascotas);
+}
